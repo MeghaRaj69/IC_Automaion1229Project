@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IC_Automaion1229Project
+  gitServerName: testmraj
+  gitUrl: https://github.com/MeghaRaj69/IC_Automaion1229Project
+  gitUsername: MeghaRaj69
+  gitBranch: test
