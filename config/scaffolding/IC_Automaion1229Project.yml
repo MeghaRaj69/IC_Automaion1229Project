@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/MeghaRaj69/IC_Automaion1229Project
   gitUsername: MeghaRaj69
   gitBranch: test
+services:
+- serviceName: project.ic_automaion1229.integrations:test
+  packages:
+  - name: IC_Automaion1229Project
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.714
